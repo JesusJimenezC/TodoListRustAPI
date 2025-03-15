@@ -56,6 +56,6 @@ This project was built using various open-source libraries and resources. We ack
 
 ## Contact
 
-For any inquiries or questions, please contact [jesus.jimenezc.mx@gmail.com].
+Jesus Jimenez Cordero - [jesus.jimenez.mx@proton.me](mailto:jesus.jimenez.mx@proton.me)
 
 Happy coding!
